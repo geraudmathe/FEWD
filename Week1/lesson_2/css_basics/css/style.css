@@ -1,0 +1,46 @@
+*{
+  background-color: orange; 
+}
+
+body{
+  background-color: teal;
+}
+
+li{
+  background-color: red;
+}
+
+ol li{
+  font-size: 30px;
+  background-color: gray
+}
+
+li:nth-child(3){ background-color: black }
+
+a{font-size: 25px;}
+a:visited{font-size: 50px;}
+
+li:hover{ background-color: pink; }
+
+#list-a{ background-color: green }
+#list-b{ background-color: yellow }
+
+#square-a{ background-color: Honeydew; }
+
+#square-b{ background-color: LightGoldenRodYellow; }
+
+#square-c{ background-color: NavajoWhite; }
+
+#square-d{ background-color: OldLace; }
+
+.square{
+  width: 200px;
+  height: 200px;
+}
+
+.bordered{ border: 5px Gainsboro ridge; }
+
+
+
+
+

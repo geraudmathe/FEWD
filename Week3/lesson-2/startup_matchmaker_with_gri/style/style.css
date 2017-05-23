@@ -1,0 +1,74 @@
+header ul{
+  float: right;
+}
+
+header h1{
+  display: inline;
+  float: left;
+  color: yellow;
+  margin: 0 5%;
+  font-size: 20px;
+  line-height: 74px;
+  font-family: Merriweather, serif; 
+}
+
+header, header nav, header .container{
+  background-color: black;
+  border-bottom: 3px solid yellow;
+  height: 74px;
+  box-shadow: none;
+}
+
+main{
+  background-color: #C6C6C6;
+}
+
+main .profile{
+  background-color: white;
+  padding: 10px; 
+}
+
+main .profile h2{
+  font-size: 20px;
+}
+
+main .profile .picture{
+  height: 280px;
+  background-color: #C6C6C6
+}
+
+main .profile a{
+  background-color: yellow;
+  width: 100%;
+  display: block;
+  text-align: center;
+  color: black;
+  font-size: 25px;
+  border-radius: 4px;
+  text-transform: uppercase;
+}
+
+main .profile .tags li{
+  background-color: gray;
+  display: inline;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 15px;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
